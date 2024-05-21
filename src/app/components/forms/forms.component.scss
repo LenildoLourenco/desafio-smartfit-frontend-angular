@@ -45,6 +45,7 @@
 
 .form-group .radio-wrapper input[type="radio"] {
     margin-right: 6px;
+    cursor: pointer
 }
 
 .form-group .radio-wrapper:nth-last-child(3) {
@@ -98,6 +99,7 @@
 
 .form-group .checkbox-wrapper input[type="checkbox"] {
     margin-right: 6px;
+    cursor: pointer
 }
 
 @media (min-width: 768px) {
